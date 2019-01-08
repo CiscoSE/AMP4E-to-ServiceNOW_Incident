@@ -23,14 +23,14 @@ Working at various companies, ServiceNOW has been the ITSM tool of choice and of
 
 AMP
 
-client_id
-api_key
+client_id<br/>
+api_key<br/>
 
 ServiceNOW
 
-user ( Yep dont like putting clear text passwords but I haven't seen any other mechanism in the documentation)
-pwd
-https://'<YOUR TENANT ACCOUNT>'.service-now.com/api/now/table/incident
+user ( Yep dont like putting clear text passwords but I haven't seen any other mechanism in the documentation)<br/>
+pwd<br/>
+https://'<YOUR TENANT ACCOUNT>'.service-now.com/api/now/table/incident<br/>
 
 ## Features
 
