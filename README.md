@@ -24,34 +24,27 @@ What visual, if shown, clearly articulates the impact of what you have created? 
 
 ## Features
 
-Include a succinct summary of the features/capabilities of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
+- Go through all the AMP connectors installed in your environment and collect events that have a Malicious disposition and create an Incident for them into ServiceNOW.
 
 ## Technologies & Frameworks Used
 
-This is Cisco Sample Code!  What Cisco and third-party technologies are you working with?  Are you using a coding framework or software stack?  A simple list will set the context for your project.
+The technologies used is Cisco's AMP for Endpoints, ServiceNOW for ITSM and optionally AWS Lambda to run the code in the cloud if desired.
 
 **Cisco Products & Services:**
 
-- Product
-- Service
+- Cisco AMP for Endpoints
 
 **Third-Party Products & Services:**
 
-- Product
-- Service
+- ServiceNOW (any current version)
+- AWS Lambda
 
 **Tools & Frameworks:**
 
-- Framework 1
-- Automation Tool 2
+- chalice
 
 ## Usage
 
-If people like your project, they will want to use it.  Show them how.
 
 ## Installation
 
