@@ -90,6 +90,7 @@ $ aws configure         # AWS API keys setup. (Optional)
 ```
 
 ## Screenshot example
+![alt text](https://github.com/CiscoSE/AMP4E-to-ServiceNOW_Incident/blob/master/images/Screen%20Shot%202019-01-07%20at%2010.00.11%20PM.png)
 ![alt text](https://github.com/CiscoSE/AMP4E-to-ServiceNOW_Incident/blob/master/images/Screen%20Shot%202019-01-03%20at%2011.28.05%20PM.png)
 
 ## Extending the code
