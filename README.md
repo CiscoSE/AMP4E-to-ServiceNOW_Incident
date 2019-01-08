@@ -70,11 +70,15 @@ $ chalice deploy
 ## To remove run chalice delete
 ```
 
-## Installing Prerequisites
-
-Install all the pre-requisites
+## Installation Prerequisites
+Python
 ```
-$ pip3 install chalice  # Install Chalice Framework to quickly create an AWS Lambda serverless workload.
+$ pip3 install -r requirements.txt
+```
+
+AWS Lambda (Optional)
+```
+$ pip3 install chalice  # Install Chalice Framework to quickly create an AWS Lambda serverless workload. (Optional)
 $ brew install awscli   # Install AWS CLI. (Optional)
 $ aws configure         # AWS API keys setup. (Optional)
 ```
