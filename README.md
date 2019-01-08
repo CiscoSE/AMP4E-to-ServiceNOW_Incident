@@ -76,7 +76,7 @@ $ chalice deploy
 ## To remove run chalice delete
 ```
 
-## Installation Prerequisites
+## Installation Pre-requisites
 Python
 ```
 $ pip3 install -r requirements.txt # Install the required packages that this project uses.
