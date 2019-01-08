@@ -5,14 +5,7 @@
 ---
 
 **ToDo's:**
-
-- [✓] Consider writing your README first.  Doing so helps you clarify your intent, focuses your project, and it is much more fun to write documentation at the beginning of a project than at the end of one, see:
-    - [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-    - [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [✓] Ensure you put the [license and copyright header](./HEADER) at the top of all your source code files.
-- [✓] Be mindful of the third-party materials you use and ensure you follow Cisco's policies for creating and sharing Cisco Sample Code.
-
----
+None
 
 ## Motivation
 
