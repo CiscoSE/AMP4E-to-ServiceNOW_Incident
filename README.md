@@ -21,12 +21,12 @@ Working at various companies, ServiceNOW has been the ITSM tool of choice and of
 ## Before you use
 
 
-### AMP
+AMP
 
 client_id
 api_key
 
-### ServiceNOW
+ServiceNOW
 
 user ( Yep dont like putting clear text passwords but I haven't seen any other mechanism in the documentation)
 pwd
