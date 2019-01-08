@@ -61,7 +61,7 @@ The technologies used are Cisco's AMP for Endpoints, ServiceNOW for ITSM and opt
 
 Command line on your own workload.
 ```
-$ python3 amp4e-servicenow-incident.py
+$ python3 amp4e-servicenow-incident.py   # Install the required packages that this project uses.
 ```
 On AWS Lambda executing every 120 seconds. (Optional)
 ```
