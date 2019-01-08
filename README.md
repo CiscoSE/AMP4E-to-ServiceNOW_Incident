@@ -45,7 +45,7 @@ The technologies used are Cisco's AMP for Endpoints, ServiceNOW for ITSM and opt
 **Third-Party Products & Services:**
 
 - ServiceNOW (any current version)
-- AWS Lambda
+- AWS Lambda (You will need an AWS account if you choose this route)
 
 **Tools & Frameworks:**
 
@@ -57,7 +57,7 @@ Command line on your own workload.
 ```
 $ python3 amp4e-servicenow-incident.py
 ```
-On AWS Lambda executing every 120 seconds.
+On AWS Lambda executing every 120 seconds. (Optional)
 ```
 $ virtualenv venv
 $ source venv/bin/activate
