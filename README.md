@@ -95,7 +95,7 @@ $ aws configure         # AWS API keys setup. (Optional)
 ![alt text](https://github.com/CiscoSE/AMP4E-to-ServiceNOW_Incident/blob/master/images/Screen%20Shot%202019-01-03%20at%2011.28.05%20PM.png)
 
 ## Extending the code
-You can also extend this code to load into the CMDB module, so that IT personnel can better capture user data, etc. There is a lot of flexibility and below is an example for Linux Servers (So imagine you installed AMP on your Linux servers).
+You can also extend this code to load into the CMDB module, so that IT personnel can better capture user data, etc. There is a lot of flexibility and below shows what fields are for the Linux Servers on the demo data (So imagine you installed AMP on your Linux servers).
 ```
 $ curl -u 'admin':'password' -X GET https://dev123456.service-now.com/api/now/table/cmdb_ci_linux_server
 ```
