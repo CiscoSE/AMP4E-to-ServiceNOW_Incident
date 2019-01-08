@@ -73,8 +73,7 @@ Smart people responsible for the creation and maintenance of this project:
 - George Seeto <geseeto@cisco.com>
 
 ## Credits
-
-This code was inspired by Cisco Dev-NET and the Dev-NET workshop I was able to attend in December 2018. In addition ServiceNOW inspiration comes from various companies I have come from where ServiceNOW was the main ITSM application of choice. 
+Credit to Cisco Dev-NET and the folks who hosted the Dev-NET workshop I was able to attend in December, 2018. In addition ServiceNOW inspiration comes from various companies I have come from where ServiceNOW was the main ITSM application of choice. 
 
 ## License
 
