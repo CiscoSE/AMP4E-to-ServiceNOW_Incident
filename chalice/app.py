@@ -81,8 +81,8 @@ def periodic_task(event):
             try:
                 for disposition in resp_json['data']['events']:
                     # Condition to check if the file is deemed 'Malicious' and that this event occurred in the last 120 seconds
-                    #if (disposition['file']['disposition'] == 'Malicious' and (int(time.time()) - int(disposition['timestamp'])) <= 120):
-                    if disposition['file']['disposition'] == 'Malicious':
+                    if (disposition['file']['disposition'] == 'Malicious' and (int(time.time()) - int(disposition['timestamp'])) <= 120):
+                    #if disposition['file']['disposition'] == 'Malicious':
                         # You can remove this print statement - Used it for testing.
                         print(connector_guid.get(guid) + " " + disposition['file']['file_name'] + " " +
                               disposition['file'][
