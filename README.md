@@ -16,7 +16,7 @@
 
 ## Motivation
 
-Working at various companies ServiceNOW has been the ITSM tool of choice and often times, engineers and managers want some integration between various systems and tools into this platform. So the motivation is to provide an example of what can be accomplished with Cisco's platforms and other platforms.
+Working at various companies, ServiceNOW has been the ITSM tool of choice and often times, engineers and managers want some integration between various systems and tools into this platform. So the motivation is to provide an example of what can be accomplished with Cisco's platforms and other platforms.
 
 ## Show Me!
 
@@ -45,6 +45,22 @@ The technologies used are Cisco's AMP for Endpoints, ServiceNOW for ITSM and opt
 
 ## Usage
 
+Command line
+```
+$ python3 amp4e-servicenow-incident.py
+```
+On AWS Lambda executing every 120 seconds.
+```
+$ virtualenv venv
+$ source venv/bin/activate
+$ pip3 install chalice
+$ pip3 install requests
+$ chalice new-project lambda-AMP4E-ServiceNOW
+$ cd lambda-AMP4E-ServiceNOW
+## Replace the app.py file with the one in this git repo under the chalice directory. Also remember to put your own data in.
+$ chalice deploy
+## To remove run chalice delete
+```
 
 ## Installation
 
