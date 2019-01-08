@@ -79,6 +79,9 @@ $ brew install awscli   # Install AWS CLI. (Optional)
 $ aws configure         # AWS API keys setup. (Optional)
 ```
 
+## Screenshot example
+
+
 ## Authors & Maintainers
 
 - George Seeto
