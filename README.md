@@ -53,7 +53,7 @@ The technologies used are Cisco's AMP for Endpoints, ServiceNOW for ITSM and opt
 
 ## Usage
 
-Command line
+Command line on your own workload.
 ```
 $ python3 amp4e-servicenow-incident.py
 ```
