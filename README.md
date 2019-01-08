@@ -14,7 +14,7 @@ Before you begin you need to ensure that you have the following:
 * ServiceNOW Account
 * Optional: AWS Account
 
-Make sure you modify the code where the keys, user/pass and URL are so that they match your accounts.
+Make sure you modify the code where the keys, user/pass and URL, so that they match your accounts.
 
 AMP
 * client_id<br/>
