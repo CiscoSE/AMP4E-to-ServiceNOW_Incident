@@ -28,7 +28,7 @@ What visual, if shown, clearly articulates the impact of what you have created? 
 
 ## Technologies & Frameworks Used
 
-The technologies used is Cisco's AMP for Endpoints, ServiceNOW for ITSM and optionally AWS Lambda to run the code in the cloud if desired.
+The technologies used are Cisco's AMP for Endpoints, ServiceNOW for ITSM and optionally AWS Lambda to run the code in the cloud if desired.
 
 **Cisco Products & Services:**
 
