@@ -1,22 +1,22 @@
 # AMP4E-to-ServiceNOW_Incident
 
-*Cisco Sample Code project essential docs*
+*This code utilizes the API capabilities from Cisco AMP for Endpoints to create ServiceNOW incidents*
 
 ---
 
 **ToDo's:**
 
-- [ ] Consider writing your README first.  Doing so helps you clarify your intent, focuses your project, and it is much more fun to write documentation at the beginning of a project than at the end of one, see:
+- [✓] Consider writing your README first.  Doing so helps you clarify your intent, focuses your project, and it is much more fun to write documentation at the beginning of a project than at the end of one, see:
     - [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
     - [GitHub Guides: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [ ] Ensure you put the [license and copyright header](./HEADER) at the top of all your source code files.
-- [ ] Be mindful of the third-party materials you use and ensure you follow Cisco's policies for creating and sharing Cisco Sample Code.
+- [✓] Ensure you put the [license and copyright header](./HEADER) at the top of all your source code files.
+- [✓] Be mindful of the third-party materials you use and ensure you follow Cisco's policies for creating and sharing Cisco Sample Code.
 
 ---
 
 ## Motivation
 
-Include a short description of the motivation behind the creation and maintenance of the project.  Explain **why** the project exists.
+Working at various companies ServiceNOW has been the ITSM tool of choice and often times, engineers and managers want some integration between various systems and tools into this platform. So the motivation is to provide an example of what can be accomplished with Cisco's platforms and other platforms.
 
 ## Show Me!
 
@@ -65,7 +65,7 @@ Smart people responsible for the creation and maintenance of this project:
 
 ## Credits
 
-Give proper credit.  Inspired by another project or article?  Was your work made easier by a tutorial?  Include links to the people, projects, and resources that were influential in the creation of this project.
+This code was inspired by Cisco Dev-NET and the Dev-NET workshop I was able to attend in December 2018. In addition ServiceNOW inspiration comes from various companies I have come from where ServiceNOW was the main ITSM application of choice. 
 
 ## License
 
