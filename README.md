@@ -16,7 +16,7 @@
 
 ## Motivation
 
-Working at various companies, ServiceNOW has been the ITSM tool of choice and often times, engineers and managers want some integration between various systems and tools into this platform. So the motivation is to provide an example of what can be accomplished with Cisco's platforms and other platforms.
+Working at various companies, ServiceNOW has been the ITSM tool of choice and often times, engineers and managers want some integration between various systems and tools into this platform. So the motivation for this project is to provide an example of what can be accomplished with Cisco's platforms and other platforms.
 
 ## Before you use
 Make sure you modify the keys, user/pass and URL to match your various accounts.
