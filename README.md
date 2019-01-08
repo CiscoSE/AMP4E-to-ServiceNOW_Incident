@@ -28,7 +28,7 @@ AMP
 ServiceNOW
 * user<br/>
 * pwd<br/>
-* https://'\<YOUR TENANT ACCOUNT\>'.service-now.com/api/now/table/incident<br/>
+* https://\<YOUR TENANT ACCOUNT\>.service-now.com/api/now/table/incident<br/>
 
 ## Features
 
