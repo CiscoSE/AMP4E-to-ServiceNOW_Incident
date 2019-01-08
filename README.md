@@ -19,18 +19,16 @@
 Working at various companies, ServiceNOW has been the ITSM tool of choice and often times, engineers and managers want some integration between various systems and tools into this platform. So the motivation is to provide an example of what can be accomplished with Cisco's platforms and other platforms.
 
 ## Before you use
-
+Make sure you modify the keys, user/pass and URL to match your various accounts.
 
 AMP
-
-client_id<br/>
-api_key<br/>
+* client_id<br/>
+* api_key<br/>
 
 ServiceNOW
-
-user ( Yep dont like putting clear text passwords but I haven't seen any other mechanism in the documentation)<br/>
-pwd<br/>
-https://'<YOUR TENANT ACCOUNT>'.service-now.com/api/now/table/incident<br/>
+* user ( Yep dont like putting clear text passwords but I haven't seen any other mechanism in the documentation)<br/>
+* pwd<br/>
+* https://'<YOUR TENANT ACCOUNT>'.service-now.com/api/now/table/incident<br/>
 
 ## Features
 
