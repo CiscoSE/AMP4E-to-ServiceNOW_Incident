@@ -20,7 +20,7 @@ Working at various companies, ServiceNOW has been the ITSM tool of choice and of
 
 ## Before you use
 Before you begin you need to ensure that you have the following:
-* AMP for Endpoints installed and have a valid account
+* Cisco AMP for Endpoints installed and have a valid account
 * ServiceNOW Account
 * Optional: AWS Account
 
