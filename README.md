@@ -26,7 +26,7 @@ AMP
 * api_key<br/>
 
 ServiceNOW
-* user ( Yep dont like putting clear text passwords but I haven't seen any other mechanism in the documentation)<br/>
+* user<br/>
 * pwd<br/>
 * https://'\<YOUR TENANT ACCOUNT\>'.service-now.com/api/now/table/incident<br/>
 
