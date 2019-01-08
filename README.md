@@ -1,4 +1,5 @@
-<a href="https://snyk.io/test/github/CiscoSE/AMP4E-to-ServiceNOW_Incident"><img src="https://snyk.io/test/github/CiscoSE/AMP4E-to-ServiceNOW_Incident/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/CiscoSE/AMP4E-to-ServiceNOW_Incident" style="max-width:100%;"></a>
+[![Known Vulnerabilities](https://snyk.io/test/github/CiscoSE/AMP4E-to-ServiceNOW_Incident/badge.svg)](https://snyk.io/test/github/CiscoSE/AMP4E-to-ServiceNOW_Incident)
+
 # AMP4E-to-ServiceNOW_Incident
 
 *This code utilizes the API capabilities from Cisco AMP for Endpoints to create ServiceNOW incidents*
