@@ -33,6 +33,7 @@ ServiceNOW
 ## Features
 
 - Go through all the AMP connectors installed in your environment and collect events that have a Malicious disposition and create an Incident for them into ServiceNOW.
+- Optional: Easily run this out of AWS Lambda with high cost optimization.
 
 ## Technologies & Frameworks Used
 
