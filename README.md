@@ -49,6 +49,19 @@ The technologies used are Cisco's AMP for Endpoints, ServiceNOW for ITSM and opt
 
 - chalice
 
+## Installation Prerequisites
+Python
+```
+$ pip3 install -r requirements.txt # Install the required packages that this project uses.
+```
+
+AWS Lambda (Optional)
+```
+$ pip3 install chalice  # Install Chalice Framework to quickly create an AWS Lambda serverless workload. (Optional)
+$ brew install awscli   # Install AWS CLI. (Optional)
+$ aws configure         # AWS API keys setup. (Optional)
+```
+
 ## Usage
 
 Command line on your own workload.
@@ -66,19 +79,6 @@ $ cd lambda-AMP4E-ServiceNOW
 ## Replace the app.py file with the one in this git repo under the chalice directory. Also remember to put your own data in.
 $ chalice deploy
 ## To remove run chalice delete
-```
-
-## Installation Prerequisites
-Python
-```
-$ pip3 install -r requirements.txt # Install the required packages that this project uses.
-```
-
-AWS Lambda (Optional)
-```
-$ pip3 install chalice  # Install Chalice Framework to quickly create an AWS Lambda serverless workload. (Optional)
-$ brew install awscli   # Install AWS CLI. (Optional)
-$ aws configure         # AWS API keys setup. (Optional)
 ```
 
 ## Screenshot example
