@@ -91,6 +91,11 @@ You can also extend this code to load into the CMDB module, so that IT personnel
 ```
 $ curl -u 'admin':'password' -X GET https://dev123456.service-now.com/api/now/table/cmdb_ci_linux_server
 ```
+
+## Todo's
+* Connection disposition is not implemented.
+* Implement a mechanism to limit the number incidents created in the event of a large outbreak.
+
 ## Authors & Maintainers
 
 - George Seeto
